@@ -1,0 +1,35 @@
+body{
+  margin: 0px 0px 0px 0px;
+  background-color:#FF861E;
+  background-size: 100vw 10vh;
+  padding: 0px auto;
+}
+
+h1{
+  font-family: serif;
+  text-align: center;
+  justify-content: center;
+  color:#FF2D89;
+  
+  
+}
+
+#g1{
+  font-family: serif;
+  font-size: 15pt;
+  color: cornsilk;
+  background-color: skyblue;
+  border: 7px solid yellow ;
+  border-radius: 7px;
+  margin: 25% 15% 5% 15%;
+  padding: 5% 0.5% 1% 4.5%;
+  text-align: justify;
+  text-align: left;
+  
+}
+
+#btn1{
+  display: block;
+  margin-left:100% ;
+/*  margin-top: 100%;*/
+}
